@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342261836643",
+    "project_id": "eccho-food-deliverys",
+    "storage_bucket": "eccho-food-deliverys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342261836643:android:555caeb481440e12308156",
+        "android_client_info": {
+          "package_name": "com.example.ecchofooddelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDee0LY9JlA6xFzmD6zNRb3F1UrgE0tpjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
